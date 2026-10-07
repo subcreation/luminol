@@ -33,6 +33,18 @@ npx skills add subcreation/luminol -g
 The planned corpus, scoring gate, telemetry, and collection status are in
 [benchmarks/README.md](./benchmarks/README.md).
 
+**Field record** (observational, not a benchmark)
+
+From the private work records of the agent team that builds Current, July 12 to
+August 25, 2026: the team tracked 86 Mysteries. Of the 73 opened after this
+method was adopted, 37 were marked resolved only after a later live or
+independent retest, 9 remain candidates, 26 are still open, deferred, or
+recurring, and 1 was withdrawn as not a defect. In at least 16, a fix or
+resolution that had passed its own checks was later overturned by a real retest
+or a recurrence, which is why Luminol never calls a passing fix resolved. These
+are field observations from private team records, not a controlled with/without
+comparison.
+
 ## Before And After
 
 Without an investigation discipline:
