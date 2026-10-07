@@ -1,0 +1,4 @@
+interface:
+  display_name: "Luminol"
+  short_description: "Investigate surprises before changing code"
+  default_prompt: "Use $luminol to investigate this expectation/reality gap before proposing a change."
