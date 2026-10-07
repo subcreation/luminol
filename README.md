@@ -36,14 +36,14 @@ The planned corpus, scoring gate, telemetry, and collection status are in
 **Field record** (observational, not a benchmark)
 
 From the private work records of the agent team that builds Current, July 12 to
-August 25, 2026: the team tracked 86 Mysteries. Of the 73 opened after this
-method was adopted, 37 were marked resolved only after a later live or
-independent retest, 9 remain candidates, 26 are still open, deferred, or
-recurring, and 1 was withdrawn as not a defect. In at least 16, a fix or
-resolution that had passed its own checks was later overturned by a real retest
-or a recurrence, which is why Luminol never calls a passing fix resolved. These
-are field observations from private team records, not a controlled with/without
-comparison.
+August 25, 2026. The team marks a Mystery resolved only after its fix survives a
+later live or independent retest; a passing test is not enough. That bar
+mattered: in at least 16 Mysteries, a fix or resolution that had already passed
+its own checks was later overturned by reality. Of the 73 Mysteries opened after
+the method was adopted, 37 have met the bar. The rest stay open until a later
+run confirms them, rather than being closed on a passing test (one was withdrawn
+as not a defect). These are field observations from private team records, not a
+controlled with/without comparison.
 
 ## Before And After
 
